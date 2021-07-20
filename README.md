@@ -1,7 +1,7 @@
 link do suge royal-egg.surge.sh
 
 # O QUE FOI USADO:
-ROUTER | AXIOS | STYLED-COMPONENTS
+ROUTER | AXIOS | STYLED-COMPONENTS | INTEGRAÇÃO COM API
 
 #Apliação escrita em JS utilizando o React. 
 
