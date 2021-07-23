@@ -1,4 +1,5 @@
 link do suge royal-egg.surge.sh
+# <h1 align='center'>TAROT GAME </h1>
 
 # O QUE FOI USADO:
 ROUTER | AXIOS | STYLED-COMPONENTS | INTEGRAÇÃO COM API
