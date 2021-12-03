@@ -1,4 +1,4 @@
-link do suge <a href='royal-egg.surge.sh'>royal-egg.surge.sh<a>
+link do suge <a href='https://royal-egg.surge.sh/'>royal-egg.surge.sh<a>
 # <h1 align='center'>TAROT GAME </h1>
 
 # O QUE FOI USADO:
