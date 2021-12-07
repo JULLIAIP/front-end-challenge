@@ -1,5 +1,5 @@
-link do suge <a href='https://royal-egg.surge.sh/'>royal-egg.surge.sh<a>
-# <h1 align='center'>TAROT GAME </h1>
+
+#<a href='https://royal-egg.surge.sh/'> <h1 align='center'>TAROT GAME </h1>/<a>
 
 # O QUE FOI USADO:
 ROUTER | AXIOS | STYLED-COMPONENTS | INTEGRAÇÃO COM API
