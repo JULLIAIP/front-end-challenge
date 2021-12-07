@@ -2,7 +2,7 @@
 <a href='https://royal-egg.surge.sh/'> <h1 align='center'>TAROT GAME </h1></a>
 
 # BIBLIOTECAS:
-ROUTER | AXIOS | STYLED-COMPONENTS |
+REACT-ROUTER | AXIOS | STYLED-COMPONENTS
 
 # TECNOLOGIAS:
 <li>ReactJs</li>
