@@ -1,9 +1,12 @@
 
-#<a href='https://royal-egg.surge.sh/'> <h1 align='center'>TAROT GAME </h1>/<a>
+<a href='https://royal-egg.surge.sh/'> <h1 align='center'>TAROT GAME </h1></a>
 
-# O QUE FOI USADO:
-ROUTER | AXIOS | STYLED-COMPONENTS | INTEGRAÇÃO COM API
+# BIBLIOTECAS:
+ROUTER | AXIOS | STYLED-COMPONENTS |
 
+#TECNOLOGIAS:
+<li>ReactJs</li>
+<li>API REST</li>
 #Apliação escrita em JS utilizando o React. 
 
 
